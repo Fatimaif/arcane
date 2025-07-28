@@ -26,6 +26,10 @@ const hero = () => {
     <p className="w-[33%] items-center text-sm text-gray-500">No Boundaries. No Restrictions. Just Innovation</p>
   <p className="w-[33%]text-xs mt-2 text-gray-400">Base On Chat GPT</p>
   </div>
+  <div className="relative h-screen bg-cover bg-center"
+      style={{ backgroundImage: "url('/asset/ships.jpg')" }} >
+
+  </div>
     </div>
   );
 };
